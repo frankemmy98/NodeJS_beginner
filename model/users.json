@@ -1,0 +1,20 @@
+[
+  {
+    "username": "dave1",
+    "roles": { "User": 2001 },
+    "password": "$2b$10$HQKsJcTEca0UI49Z3rH5cO9MVRhxMZwtdphqQjeU.P9BKw5.XG1L2",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImRhdmUxIiwiaWF0IjoxNjg2NjU3MzExLCJleHAiOjE2ODY3NDM3MTF9.BBrvKdRbP9fpQPFNV1Dp_qd5ci0O67cHAu9n35sUEN8"
+  },
+  {
+    "username": "walt2",
+    "roles": { "User": 2001, "Editor": 1984 },
+    "password": "$2b$10$jvwUAJp7RFyPpZCDk5XXUOpRUejPiHe88ZlN0rNd1DtOhVS7QhgJi",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IndhbHQyIiwiaWF0IjoxNjg2NjU5MDU4LCJleHAiOjE2ODY3NDU0NTh9.Co0LgGtHYD9GdbqfRv3uEXJSiY-GzSckz7iA-4OQ9nA"
+  },
+  {
+    "username": "walt1",
+    "roles": { "User": 2001, "Editor": 1984, "Admin": 5150 },
+    "password": "$2b$10$H1u9yKyGGfh3r6BlUAWnF.dKxlExTYgdG0dzmUQzTf0K86PH9WO7W",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IndhbHQxIiwiaWF0IjoxNjg2NjU5MzgxLCJleHAiOjE2ODY3NDU3ODF9._yWKUVO4nb5-mmUQHob1Zc7HDWkAijHK4naude5RgiY"
+  }
+]
